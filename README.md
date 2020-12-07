@@ -20,6 +20,9 @@ I decided to go with the VAVA 4K projector as it was on sale during Black Friday
 ### Screen
 Went with an Elite Screens Manual Tab-Tension 2 series screen, at 106" (https://elitescreens.com/front/front/productdetail/product/492). It was $562 on Amazon, uses the CineWhite UHD-B material, and is compatible with ultra short throw projectors.
 
+### Stand
+Found a semi-oval shaped table on FB Marketplace, measuring 52" (L) x 18" (W) x 28" (H). 
+
 
 ## Audio
 TBD. Need to do more research on receivers, surround sound set ups, subs, cabling, etc.
