@@ -29,7 +29,7 @@ P2 = (120, 13.9)
 y = 0.09x + 3.1
 y = 0.09 * (106") + 3.1 = 12.64"
 
-### Device-Wall Distance (W1)
+#### Device-Wall Distance (W1)
 P1 = (100, 7.2)
 P2 = (120, 11)
 y = 0.19x - 11.8
