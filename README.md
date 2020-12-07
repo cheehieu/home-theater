@@ -21,7 +21,19 @@ I decided to go with the VAVA 4K projector as it was on sale during Black Friday
 Went with an Elite Screens Manual Tab-Tension 2 series screen, at 106" (https://elitescreens.com/front/front/productdetail/product/492). It was $562 on Amazon, uses the CineWhite UHD-B material, and is compatible with ultra short throw projectors.
 
 ### Stand
-Found a semi-oval shaped table on FB Marketplace, measuring 52" (L) x 18" (W) x 28" (H). 
+Found a semi-oval shaped table on FB Marketplace, measuring 52" (L) x 18" (W) x 28" (H). According to the VAVA manual, the H2 distance between the bottom of the image and the desk should be ~12.64" for a 106" screen, assuming a linear relationship.
+
+#### Image-Desk Height Gap (H2)
+P1 = (100, 12.1)
+P2 = (120, 13.9)
+y = 0.09x + 3.1
+y = 0.09 * (106") + 3.1 = 12.64"
+
+### Device-Wall Distance (W1)
+P1 = (100, 7.2)
+P2 = (120, 11)
+y = 0.19x - 11.8
+y = 0.19 * (106") - 11.8 = 8.34"
 
 
 ## Audio
